@@ -1,2 +1,3 @@
-# Emotion_Detection_Using_CNN
-The python program to detect emotion using live feed with CNN classification.
+# Emotion_Detection_CNN
+
+Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
